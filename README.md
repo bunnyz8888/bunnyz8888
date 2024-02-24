@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bang
 - 👀 I’m interested in investing, programing
-- 🌱 I’m currently learning about C++
+- 🌱 I’m currently learning about C++ and Python
 
 
 <!---
