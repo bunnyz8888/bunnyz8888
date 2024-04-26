@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bang
+- 👋 Hi, I’m BunnYZ
 - 👀 I’m interested in investing, programing
 - 🌱 I’m currently learning about C++ and Python
 
